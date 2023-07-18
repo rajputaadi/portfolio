@@ -18,6 +18,14 @@
     background-position: 0% 50%;
   }
 }
+.box_shadow{
+  transition: transform 0.3s;
+}
+.box_shadow:hover{
+  box-shadow: 2px 2px 15px white;
+  transform: scale(1.05);
+
+}
 
 .icon-square {
   width: 3rem;
