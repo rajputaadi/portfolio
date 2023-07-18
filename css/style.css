@@ -48,3 +48,7 @@
 #instaid:hover{
   color: white;
 }
+
+.mypic  {
+	position: relative;
+}
