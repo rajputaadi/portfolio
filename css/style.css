@@ -2,7 +2,7 @@
   scroll-behavior: smooth;
 } */
 .gradient-background {
-  background: linear-gradient(300deg, #b136d0, #24ec99, #e33f29);
+  background: linear-gradient(300deg, #1471f3, #1c1c1c, #e4e0e0);
   background-size: 180% 180%;
   animation: gradient-animation 12s ease infinite;
 }
