@@ -1,3 +1,6 @@
+/* html {
+  scroll-behavior: smooth;
+} */
 .gradient-background {
   background: linear-gradient(300deg, #b136d0, #24ec99, #e33f29);
   background-size: 180% 180%;
